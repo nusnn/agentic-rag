@@ -1,1 +1,1 @@
-# aigentic-rag
+# agentic-rag
